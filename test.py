@@ -1,0 +1,1 @@
+print("minh dẹp zai")
